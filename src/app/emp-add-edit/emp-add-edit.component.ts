@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
+import { EmployeeService } from '../services/employee.service';
+import { DialogRef } from '@angular/cdk/dialog';
 
 @Component({
   selector: 'app-emp-add-edit',
@@ -15,7 +17,8 @@ education:string[]=[
   'Graduate',
   'Post Graduate'
 ];
-constructor(private fb:FormBuilder){
+constructor(private fb:FormBuilder,private _empService:EmployeeService, 
+  private _dialogRef: DialogRef<EmpAddEditComponent>){
   this.empForm = this.fb.group({
     firstName:'',
     lastName:'',
@@ -26,9 +29,19 @@ constructor(private fb:FormBuilder){
     company:''
   })
 }
+// to catch the service file on submit
 onFormSubmit(){
   if(this.empForm.valid){
-    console.log(this.empForm.value)
+    this._empService.addEmployee(this.empForm.value).subscribe({
+      next:(val: any)=>{
+        alert('done');
+        this._dialogRef.close();
+
+      },
+      error:(err:any)=>{
+        console.error(err);
+      },
+    })
   }
 }
 }
