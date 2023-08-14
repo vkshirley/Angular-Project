@@ -1,0 +1,24 @@
+//contetnt 
+.content{
+    padding-top: 10px;
+}
+//form rows
+.row{
+ display: flex;
+ gap: 15px;   
+
+ mat-form-field{
+    width: 100%;
+ }
+}
+// radio
+.mat-mdc-radio-button ~ .mat-mdc-radio-button {
+    margin-left: 16px;
+  }
+//  form button 
+.action{
+    padding: 0px 25px 20px;
+    button{
+        flex: 1;
+    }
+}
