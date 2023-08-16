@@ -22,10 +22,191 @@
       "lastName": "kumar",
       "email": "vk@somaiya.edu",
       "dob": "2023-07-31T18:30:00.000Z",
-      "gender": "",
+      "gender": "male",
       "Qualification": "Post Graduate",
       "company": "cirisil",
       "id": 1
+    },
+    {
+      "firstName": "Priya ",
+      "lastName": "Reddy",
+      "email": "priya@gmail.com",
+      "dob": "2023-05-16T18:30:00.000Z",
+      "gender": "female",
+      "Qualification": "Graduate",
+      "company": "Pillai",
+      "id": 2
+    },
+    {
+      "firstName": "divyanshu",
+      "lastName": "yadav",
+      "email": "dvd@gmail.com",
+      "dob": "2023-02-14T18:30:00.000Z",
+      "gender": "male",
+      "Qualification": "Post Graduate",
+      "company": "LTI",
+      "id": 3
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@example.com",
+      "dob": "1990-08-25T12:00:00.000Z",
+      "gender": "male",
+      "Qualification": "Master's",
+      "company": "TechCo",
+      "id": 1
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Johnson",
+      "email": "emma.johnson@example.com",
+      "dob": "1985-03-12T09:15:00.000Z",
+      "gender": "female",
+      "Qualification": "PhD",
+      "company": "InnovateCorp",
+      "id": 3
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "michael.brown@example.com",
+      "dob": "1992-11-02T16:45:00.000Z",
+      "gender": "male",
+      "Qualification": "Bachelor's",
+      "company": "GlobalTech",
+      "id": 4
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Garcia",
+      "email": "sophia.garcia@example.com",
+      "dob": "2000-06-18T14:20:00.000Z",
+      "gender": "female",
+      "Qualification": "Associate's",
+      "company": "WebTech Solutions",
+      "id": 5
+    },
+    {
+      "firstName": "William",
+      "lastName": "Davis",
+      "email": "william.davis@example.com",
+      "dob": "1988-09-30T11:10:00.000Z",
+      "gender": "male",
+      "Qualification": "Master's",
+      "company": "DataHub",
+      "id": 6
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "olivia.martinez@example.com",
+      "dob": "1994-07-08T08:30:00.000Z",
+      "gender": "female",
+      "Qualification": "Bachelor's",
+      "company": "BrightIdeas",
+      "id": 7
+    },
+    {
+      "firstName": "Ethan",
+      "lastName": "Jones",
+      "email": "ethan.jones@example.com",
+      "dob": "1998-12-17T15:40:00.000Z",
+      "gender": "male",
+      "Qualification": "Graduate",
+      "company": "TechStart",
+      "id": 8
+    },
+    {
+      "firstName": "Ava",
+      "lastName": "Hernandez",
+      "email": "ava.hernandez@example.com",
+      "dob": "2001-02-28T10:05:00.000Z",
+      "gender": "female",
+      "Qualification": "Associate's",
+      "company": "SoftConnect",
+      "id": 9
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Taylor",
+      "email": "liam.taylor@example.com",
+      "dob": "1996-09-14T13:25:00.000Z",
+      "gender": "male",
+      "Qualification": "PhD",
+      "company": "InnovationLabs",
+      "id": 10
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@example.com",
+      "dob": "1990-08-25T12:00:00.000Z",
+      "gender": "male",
+      "Qualification": "Master's",
+      "company": "TechCo",
+      "id": 1
+    },
+    {
+      "firstName": "Isabella",
+      "lastName": "Rodriguez",
+      "email": "isabella.rodriguez@example.com",
+      "dob": "1993-04-20T11:55:00.000Z",
+      "gender": "female",
+      "Qualification": "Master's",
+      "company": "TechSolutions",
+      "id": 11
+    },
+    {
+      "firstName": "Noah",
+      "lastName": "Wilson",
+      "email": "noah.wilson@example.com",
+      "dob": "1997-11-11T17:30:00.000Z",
+      "gender": "male",
+      "Qualification": "Graduate",
+      "company": "CodeCrafters",
+      "id": 12
+    },
+    {
+      "firstName": "Mia",
+      "lastName": "Lee",
+      "email": "mia.lee@example.com",
+      "dob": "2002-03-05T09:45:00.000Z",
+      "gender": "female",
+      "Qualification": "Bachelor's",
+      "company": "InnovativeTech",
+      "id": 13
+    },
+    {
+      "firstName": "Jackson",
+      "lastName": "Johnson",
+      "email": "jackson.johnson@example.com",
+      "dob": "1989-08-10T14:15:00.000Z",
+      "gender": "male",
+      "Qualification": "Associate's",
+      "company": "CyberTech",
+      "id": 14
+    },
+
+    {
+      "firstName": "Sophie",
+      "lastName": "Williams",
+      "email": "sophie.williams@example.com",
+      "dob": "1999-06-28T12:20:00.000Z",
+      "gender": "female",
+      "Qualification": "PhD",
+      "company": "DataInnovators",
+      "id": 15
+    },
+    {
+      "firstName": "Aiden",
+      "lastName": "Anderson",
+      "email": "aiden.anderson@example.com",
+      "dob": "1991-09-03T16:10:00.000Z",
+      "gender": "male",
+      "Qualification": "Master's",
+      "company": "NexTech",
+      "id": 16
     }
   ]
 }
